@@ -2,4 +2,4 @@
 
 ##overview
 
-이 공간은 수업 중간 내용을 포함함.
+This is project repo for team #
